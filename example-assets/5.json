@@ -1,0 +1,27 @@
+{
+  "name": "Paper Item Banc",
+  "symbol": "5Paper",
+  "image": "5.png",
+  "properties": {
+    "files": [{ "uri": "5.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "84ebhaMQvoAoL1cjmZz1zwU5oR9UUg1UZb9wik4bzarK",
+        "share": 100
+      }
+    ]
+  },
+  "description": "Paper 400 Sheets Item Banc",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "country", "value": "United States" },
+    { "trait_type": "city", "value": "Savannah" },
+    { "trait_type": "currency", "value": "usd" },
+    { "trait_type": "price", "value": "12" }
+  ],
+  "collection": {
+    "name": "Item Banc Index",
+    "family": "Paper"
+  }
+}

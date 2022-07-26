@@ -1,0 +1,27 @@
+{
+  "name": "Coffee Item Banc",
+  "symbol": "7Coffee",
+  "image": "7.png",
+  "properties": {
+    "files": [{ "uri": "7.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "84ebhaMQvoAoL1cjmZz1zwU5oR9UUg1UZb9wik4bzarK",
+        "share": 100
+      }
+    ]
+  },
+  "description": "Coffee 400g Item Banc",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "country", "value": "United States" },
+    { "trait_type": "city", "value": "Savannah" },
+    { "trait_type": "currency", "value": "usd" },
+    { "trait_type": "price", "value": "10" }
+  ],
+  "collection": {
+    "name": "Item Banc Index",
+    "family": "Coffee"
+  }
+}

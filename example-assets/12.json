@@ -1,0 +1,27 @@
+{
+  "name": "Plywood Item Banc",
+  "symbol": "12Ply",
+  "image": "12.png",
+  "properties": {
+    "files": [{ "uri": "12.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "84ebhaMQvoAoL1cjmZz1zwU5oR9UUg1UZb9wik4bzarK",
+        "share": 100
+      }
+    ]
+  },
+  "description": "Plywood 4x8x3/4 Item Banc",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "country", "value": "United States" },
+    { "trait_type": "city", "value": "Savannah" },
+    { "trait_type": "currency", "value": "usd" },
+    { "trait_type": "price", "value": "44" }
+  ],
+  "collection": {
+    "name": "Item Banc Index",
+    "family": "Plywood"
+  }
+}
